@@ -45,22 +45,22 @@ tick();
 
 function Youtube() {
   setTimeout(function() {
-    window.open('https://www.youtube.com/channel/UCiSP9FWliPIwG-w59dJdilQ', 'ultimate')},
+    window.open('https://www.facebook.com/User.xNgHoangDung.Info', 'ultimate')},
   100);
 }
 function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/100035052735014', 'ultimate')},
+    window.open('https://www.facebook.com/User.xNgHoangDung.Info', 'ultimate')},
   100);
 }
 function Discord() {
   setTimeout(function() {
-    window.open('https://dsc.bio/WusThanhDieu', 'ultimate')},
+    window.open('https://www.facebook.com/User.xNgHoangDung.Info', 'ultimate')},
   100);
 }
 function Telegram() {
   setTimeout(function() {
-    window.open('https://t.me/ThanhDieuChannel', 'ultimate')},
+    window.open('https://www.facebook.com/User.xNgHoangDung.Info', 'ultimate')},
   100);
 }
 
